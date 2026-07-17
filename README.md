@@ -1,30 +1,33 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ankit Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ankit%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=gradient"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer+💻;MERN+Stack+Learner+🚀;First+Year+CSE+Student+🎓;Always+Building+Awesome+Projects+✨" />
+# 👋 Hi, I'm Ankit Kumar
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;MERN+Stack+Learner;First+Year+CSE+Student;Open+Source+Enthusiast;Always+Learning+New+Things"/>
+
+### 🚀 Frontend Developer | MERN Stack Learner | CSE Student
 
 </div>
 
 ---
 
-## 🌈 About Me
+# 🌈 About Me
 
-🧑‍🎓 First Year CSE Student
-
-💻 Frontend Developer
-
-🚀 MERN Stack Learner
-
-🌍 Open Source Enthusiast
-
-📚 Learning Something New Every Day
-
-🎯 Dream: Become a Full Stack Developer
+```javascript
+const ankit = {
+    name: "Ankit Kumar",
+    education: "First Year CSE Student",
+    role: "Frontend Developer",
+    learning: ["React", "Node.js", "Express", "MongoDB"],
+    goal: "Become a Full Stack Developer",
+    country: "India"
+};
+```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -33,7 +36,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/ankit-kumar-577a59380">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
@@ -42,28 +45,70 @@
 
 # 💻 Tech Stack
 
-### 🎨 Frontend
+### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap"/>
+</p>
 
 ---
 
-# 🌈 Favorite Quote
+### ⚙️ Backend
 
-> ### ✨ "Dream Big • Build Bigger • Never Stop Learning"
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm"/>
+</p>
+
+---
+
+# 🚀 Currently Learning
+
+- MERN Stack
+- REST API
+- Git & GitHub
+- JavaScript ES6+
+- Responsive Web Design
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+## ✨ Code • Learn • Build • Repeat ✨
+
+</div>
+
+---
+
+# 🎯 Goals for 2026
+
+✅ Master React
+
+✅ Learn Backend Development
+
+✅ Build Full Stack Projects
+
+✅ Contribute to Open Source
+
+✅ Get Internship
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,25:92FE9D,50:F7971E,75:FF0080,100:8E2DE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=gradient"/>
+
+### ❤️ Thanks for visiting my profile!
+
+⭐ Don't forget to follow me and star my repositories.
 
 </div>
