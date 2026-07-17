@@ -14,15 +14,16 @@
 
 ## 🌈 About Me
 
-```javascript
-const ankit = {
-  👨‍💻 role: "Frontend Developer",
-  🎓 education: "First Year CSE Student",
-  🌱 currentlyLearning: ["React", "Node.js", "Express.js", "MongoDB"],
-  💡 interests: ["Web Development", "Open Source", "UI/UX"],
-  🎯 goal: "Become a Skilled Full Stack Developer",
-  ⚡ motto: "Learn • Build • Improve • Repeat"
-};
+## 👨‍💻 About Me
+
+- 🎓 **First Year Computer Science Engineering Student**
+- 💻 **Frontend Developer**
+- 🌱 **Currently learning MERN Stack**
+- 🚀 **Building responsive and modern web applications**
+- 📚 **Exploring new technologies every day**
+- 🤝 **Open to collaboration on exciting projects**
+- 🎯 **Goal:** Become a Professional Full Stack Developer
+- ⚡ **Fun Fact:** I enjoy turning ideas into real-world websites.
 ```
 ```
 
