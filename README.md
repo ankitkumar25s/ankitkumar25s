@@ -12,17 +12,18 @@
 
 ---
 
-# 🌈 About Me
+## 🌈 About Me
 
 ```javascript
 const ankit = {
-    name: "Ankit Kumar",
-    education: "First Year CSE Student",
-    role: "Frontend Developer",
-    learning: ["React", "Node.js", "Express", "MongoDB"],
-    goal: "Become a Full Stack Developer",
-    country: "India"
+  👨‍💻 role: "Frontend Developer",
+  🎓 education: "First Year CSE Student",
+  🌱 currentlyLearning: ["React", "Node.js", "Express.js", "MongoDB"],
+  💡 interests: ["Web Development", "Open Source", "UI/UX"],
+  🎯 goal: "Become a Skilled Full Stack Developer",
+  ⚡ motto: "Learn • Build • Improve • Repeat"
 };
+```
 ```
 
 ---
