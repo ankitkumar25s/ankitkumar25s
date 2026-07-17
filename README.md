@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Ankit Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;MERN+Stack+Learner;First+Year+CSE+Student;Open+Source+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;MERN+Stack+Learner;Last+Year+CSE+Student;Open+Source+Enthusiast;Always+Learning+New+Things"/>
 
 ### 🚀 Frontend Developer | MERN Stack Learner | CSE Student
 
@@ -16,7 +16,6 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **First Year Computer Science Engineering Student**
 - 💻 **Frontend Developer**
 - 🌱 **Currently learning MERN Stack**
 - 🚀 **Building responsive and modern web applications**
